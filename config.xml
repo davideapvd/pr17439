@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pr17439</name>
+	<displayName><![CDATA[Pr17439]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[pr17439 test use case hook]]></description>
+	<author><![CDATA[drc]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
